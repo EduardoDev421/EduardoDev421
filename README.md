@@ -115,7 +115,7 @@ Aplicativo mobile para cadastro de profissionais e publicação de projetos arqu
 <img>
 <h3>☕ Café Central - Site</h3>
 
-Site institucional responsivo para cafeteria, desenvolvido com HTML5, CSS3, JavaScript, Node.js e MySQL.
+Site institucional responsivo para cafeteria, desenvolvido para apresentar o cardápio, divulgar produtos e facilitar o contato com clientes, utilizando HTML5, CSS3, JavaScript, Node.js e MySQL.
 
 <strong>Stack:</strong><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
