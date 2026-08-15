@@ -69,28 +69,42 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 ## 🚀 Projetos em Destaques
 <table>
 <tr>
-<tb width="50%" valign="top">
+<td width="50%" valign="top">
+<img>
 <h3>🏠 Income of House </h3>
-<p>A IncomeOfHouse é uma plataforma fictícia especializada na divulgação de plantas de casas e projetos de construção. O objetivo da plataforma é conectar clientes a profissionais da área, como arquitetos e engenheiros, oferecendo um ambiente onde seja possível visualizar, publicar e adquirir projetos arquitetônicos de forma simples e segura. Atualmente, a IncomeOfHouse não possui um site institucional completo. Por isso, surgiu a necessidade de desenvolver uma plataforma autoral que fortaleça a identidade da marca, apresente os projetos disponíveis, divulgue os profissionais cadastrados e facilite o contato entre clientes e especialistas da construção civil. Essa solução permitirá ampliar a presença digital da empresa, melhorar a experiência dos usuários e incentivar a comercialização de projetos arquitetônicos.
-</p>
-<strong>Stack:</strong><br> HTML5, CSS3, JavaScript, Node.js e MySQL
+
+Plataforma fictícia especializada na divulgação de plantas de casas e projetos de construção, conectando clientes a arquitetos e engenheiros.
+
+<strong>💻 Stack</strong><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
+
+<br><br>
 <a href="https://github.com/EduardoDev421/IncomeOFHouse-Site"> 
-    <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
 </a>
+</td>
 
-</tb>
-
-<tb width="50%" valign="top">
+<td width="50%" valign="top">
 <img>
 <h3>☕ Café Central</h3>
-<p>O Café Central é uma cafeteria fictícia localizada em uma região de grande circulação de pessoas. O negócio oferece cafés especiais, bebidas quentes e frias, lanches e sobremesas, atendendo tanto para consumo local quanto para retirada. Atualmente, o Café Central não possui um site institucional. O proprietário deseja fortalecer a identidade da marca, divulgar seus produtos e facilitar o contato com os clientes por meio de um site institucional autoral.
-</p>
-<strong>Stack:</strong><br> HTML5, CSS3, JavaScript, Node.js e MySQL
-<a href="https://github.com/EduardoDev421/CafeCentral-Site"> 
-    <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
-</a>
 
-</tb>
+Cafeteria fictícia — site institucional para fortalecer identidade da marca, divulgar produtos e facilitar contato com clientes.
+
+<strong>💻 Stack</strong><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
+
+<a href="https://github.com/EduardoDev421/CafeCentral-Site"> 
+<img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+</a>
+</td>
 
 </tr>
 </table>
