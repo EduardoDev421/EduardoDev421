@@ -34,6 +34,7 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 <td width="25%" valign="top"> 
 
 ### Front-End
+- HTML5
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
@@ -74,7 +75,7 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 <tr>
 <td width="50%" valign="top">
 <img>
-<h3>🏠 Income of House </h3>
+<h3>🏠 Income of House - Site</h3>
 
 Plataforma fictícia especializada na divulgação de plantas de casas e projetos de construção, conectando clientes a arquitetos e engenheiros.
 
@@ -98,20 +99,23 @@ Plataforma fictícia especializada na divulgação de plantas de casas e projeto
 Plataforma fictícia especializada na divulgação de plantas de casas e projetos de construção, conectando clientes a arquitetos e engenheiros.
 
 <strong>💻 Stack</strong><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"><br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
 
 <br><br>
-<a href="https://github.com/EduardoDev421/IncomeOFHouse-Site"> 
+<a href="https://github.com/EduardoDev421/IncomeOfHouse-Mobile"> 
 <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 <img>
-<h3>☕ Café Central</h3>
+<h3>☕ Café Central - Site</h3>
 
 Cafeteria fictícia — site institucional para fortalecer identidade da marca, divulgar produtos e facilitar contato com clientes.
 
@@ -130,19 +134,18 @@ Cafeteria fictícia — site institucional para fortalecer identidade da marca, 
 
 <td width="50%" valign="top">
 <img>
-<h3>☕ Café Central</h3>
+<h3>☕ Café Central - Mobile</h3>
 
 Cafeteria fictícia — site institucional para fortalecer identidade da marca, divulgar produtos e facilitar contato com clientes.
 
 <strong>Stack:</strong><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"><br>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
 
 <br><br>
-<a href="https://github.com/EduardoDev421/CafeCentral-Site"> 
+<a href="https://github.com/EduardoDev421/IncomeOfHouse-Mobile"> 
 <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
 </a>
 </td>
