@@ -1,29 +1,21 @@
-<div aling="center" style="color: #DC2626;">
-<h1>Olá, eu sou Eduardo</h1> 
+<div align="center">
+
+# Olá, eu sou Eduardo 👋
+
+---
+
+**Desenvolvedor Full Stack** · JavaScript · React · Node.js · MySQL
+
+*Construindo aplicações completas, do banco de dados à interface.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gabriel-983578407/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EduardoDev421)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561994572403)
+[![Gmail](https://img.shields.io/badge/Gmail-DC2626?style=flat&logo=gmail&logoColor=white)](mailto:Eg361341@gmail.com)
 
 
-<h2>Desenvolvedor Full Stack Desenvolvedor Full Stack com foco na criação de aplicações web, interfaces responsivas e integração entre Front-end, Back-end e banco de dados. </h2>
-
-<p>Atualmente desenvolvo projetos utilizando tecnologias como JavaScript, React, Node.js, Express e MySQL.</p>
-
-<p aling="center">
-    <a href="https://wa.me/5561994572403">
-        <img src="./img/whatsapp.svg" width="40">
-    </a>
-    <a href="mailto:Eg361341@gmail.com">
-        <img  src="./img/gmail.svg" width="40">
-    </a>
-    <a href="https://www.linkedin.com/in/eduardo-gabriel-983578407/">
-        <img src="./img/linkedin.svg" width="40">
-    </a>
-    <a href="https://github.com/EduardoDev421">
-        <img src="./img/github.svg" width="40">
-    </a>
-    <a href="">
-        <img src="./img/Portfolio.svg" width="40">
-    </a>
-</p>
 </div>
+
 ## 👨‍💻 Sobre mim 
 
 ## 🚀 Tecnologias e ferramentas 
