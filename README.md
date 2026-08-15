@@ -28,18 +28,19 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 
 
 ## 🛠️ Tecnologias e ferramentas 
-
+<div aling="center">
 <table> 
 <tr> 
 
 <td width="25%" valign="top"> 
 
 ### Front-End
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"><br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
 </td>
 
 <td width="25%" valign="top">
@@ -58,16 +59,17 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 <td width="25%" valign="top">
 
 ### ferramentas
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="20"><br>
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"><br>
 <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" height="20"><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
 </td>
 
 </tr>
 </table>
+</div>
 
 ## 🚀 Projetos em Destaques
 <table>
@@ -87,6 +89,43 @@ Plataforma fictícia especializada na divulgação de plantas de casas e projeto
 
 <br><br>
 <a href="https://github.com/EduardoDev421/IncomeOFHouse-Site"> 
+<img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+</a>
+</td>
+
+<td width="50%" valign="top">
+<img>
+<h3>🏠 Income of House - Mobile </h3>
+
+Plataforma fictícia especializada na divulgação de plantas de casas e projetos de construção, conectando clientes a arquitetos e engenheiros.
+
+<strong>💻 Stack</strong><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"><br>
+
+<br><br>
+<a href="https://github.com/EduardoDev421/IncomeOFHouse-Site"> 
+<img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+<img>
+<h3>☕ Café Central</h3>
+
+Cafeteria fictícia — site institucional para fortalecer identidade da marca, divulgar produtos e facilitar contato com clientes.
+
+<strong>Stack:</strong><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20">
+
+<br><br>
+<a href="https://github.com/EduardoDev421/CafeCentral-Site"> 
 <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=flat&logo=github&logoColor=white" /> 
 </a>
 </td>
