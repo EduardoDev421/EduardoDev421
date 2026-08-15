@@ -1,11 +1,29 @@
-<h1 textaling="center" color="#CBD5E1">Olá, eu sou Eduardo</h1> 
+<div aling="center" style="color: #DC2626;">
+<h1>Olá, eu sou Eduardo</h1> 
 
-#
 
-### Desenvolvedor Full Stack Desenvolvedor Full Stack com foco na criação de aplicações web, interfaces responsivas e integração entre Front-end, Back-end e banco de dados.
+<h2>Desenvolvedor Full Stack Desenvolvedor Full Stack com foco na criação de aplicações web, interfaces responsivas e integração entre Front-end, Back-end e banco de dados. </h2>
 
-Atualmente desenvolvo projetos utilizando tecnologias como JavaScript, React, Node.js, Express e MySQL.
+<p>Atualmente desenvolvo projetos utilizando tecnologias como JavaScript, React, Node.js, Express e MySQL.</p>
 
+<p aling="center">
+    <a href="https://wa.me/5561994572403">
+        <img src="./img/whatsapp.svg" width="40">
+    </a>
+    <a href="mailto:Eg361341@gmail.com">
+        <img  src="./img/gmail.svg" width="40">
+    </a>
+    <a href="https://www.linkedin.com/in/eduardo-gabriel-983578407/">
+        <img src="./img/linkedin.svg" width="40">
+    </a>
+    <a href="https://github.com/EduardoDev421">
+        <img src="./img/github.svg" width="40">
+    </a>
+    <a href="">
+        <img src="./img/Portfolio.svg" width="40">
+    </a>
+</p>
+</div>
 ## 👨‍💻 Sobre mim 
 
 ## 🚀 Tecnologias e ferramentas 
