@@ -1,4 +1,6 @@
-# Olá, eu sou Eduardo 👋 
+<h1 textaling="center" color="#CBD5E1">Olá, eu sou Eduardo</h1> 
+
+#
 
 ### Desenvolvedor Full Stack Desenvolvedor Full Stack com foco na criação de aplicações web, interfaces responsivas e integração entre Front-end, Back-end e banco de dados.
 
@@ -42,7 +44,7 @@ Atualmente desenvolvo projetos utilizando tecnologias como JavaScript, React, No
         <img src="./img/whatsapp.svg" width="40">
     </a>
     <a href="mailto:Eg361341@gmail.com">
-        <img src="./img/gmail.svg" width="40">
+        <img  src="./img/gmail.svg" width="40">
     </a>
     <a href="https://www.linkedin.com/in/eduardo-gabriel-983578407/">
         <img src="./img/linkedin.svg" width="40">
