@@ -28,8 +28,7 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 
 
 ## 🛠️ Tecnologias e ferramentas 
-<div aling="center">
-<table> 
+<table aling="center"> 
 <tr> 
 
 <td width="25%" valign="top"> 
@@ -69,7 +68,6 @@ Busco escrever código organizado, criar interfaces intuitivas e desenvolver sol
 
 </tr>
 </table>
-</div>
 
 ## 🚀 Projetos em Destaques
 <table>
