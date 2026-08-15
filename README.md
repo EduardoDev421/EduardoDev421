@@ -37,38 +37,20 @@ Atualmente desenvolvo projetos utilizando tecnologias como JavaScript, React, No
 
 <h2>Contato<h2> 
 
-<p>
-    <img src="./img/whatsapp.svg" width="40">
-    <strong> WhatsApp:</strong>
+<p aling="center">
     <a href="https://wa.me/5561994572403">
-        +55 (61) 99457-2403
+        <img src="./img/whatsapp.svg" width="40">
     </a>
-</p>
-<p>
-    <img src="./img/gmail.svg" width="40">
-    <strong> Email:</strong>
     <a href="mailto:Eg361341@gmail.com">
-        Eg361341@gmail.com
+        <img src="./img/gmail.svg" width="40">
     </a>
-</p>
-<p>
-    <img src="./img/linkedin.svg" width="40">
-    <strong> Linkedin:</strong>
     <a href="https://www.linkedin.com/in/eduardo-gabriel-983578407/">
-        linkedin.com/EduardoGabriel
+        <img src="./img/linkedin.svg" width="40">
     </a>
-</p>
-<p>
-    <img src="./img/github.svg" width="40">
-    <strong> GitHub: </strong>
     <a href="https://github.com/EduardoDev421">
-        github.com/EduardoDev421
+        <img src="./img/github.svg" width="40">
     </a>
-</p>
-<p>
-    <img src="./img/Portfolio.svg" width="40">
-    <strong> Portfólio: </strong>
     <a href="">
-        Portfolio.com/EduardoRocha
+        <img src="./img/Portfolio.svg" width="40">
     </a>
 </p>
